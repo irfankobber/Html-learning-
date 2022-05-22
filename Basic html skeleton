@@ -1,0 +1,22 @@
+<!DOCTYPE html><!//this is a tag, that gives us the info about the file type>
+<!// this is a single tag, we only need one of these tags>
+
+<!//There's also container tags-> <!which contain a starting and an ending tag and in between There>
+<!// there are many other tags>
+
+
+<html>
+    <!//starting tag>
+<!// in every html file there are two sets of documents> <!head and body>
+    <head>
+        <title>
+            Azwad's Website
+        </title>
+
+    </head>
+
+    <body>
+        This is my website
+    </body>
+
+</html><!//ending tag>
