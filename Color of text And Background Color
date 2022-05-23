@@ -1,0 +1,66 @@
+<!DOCTYPE html><!//this is a tag, that gives us the info about the file type>
+<!// this is a single tag, we only need one of these tags>
+
+<!//There's also container tags-> <!which contain a starting and an ending tag and in between There>
+<!// there are many other tags>
+
+
+<html>
+    <!//starting tag>
+<!// in every html file there are two sets of documents> <!head and body>
+    <head>
+        <meta charset = "UTF-8">    
+        <! a meta tag is a tag that defines information about our file, gives us metadata>
+        <!Charset tells the website what types of characters are we using in this website>
+        <!Meta description tag-><! we can use this tag to give a description about our website>
+        <meta name="description" content="This is an awesome website">
+        <!inside meta tags we have attributes>
+        <title>
+            Azwad's Website
+        </title>
+
+    </head>
+
+    <body style ="background-color:grey">
+        This is my website
+        <h1>
+            This is header 1
+        </h1>
+        <hr/>
+        <! using the horizontal rule tag aka hr/ tag gives us a horizontal divider line. The hr/ tag is a single tag>
+
+        <p>
+            This is a paragraph
+        </p>
+        <p>
+            this is <small>another</small> <big><b>paragraph</b> </big>
+        </p>
+        <p>
+            this is another <i><b>paragraph</b></i>
+        </p>
+        <h2>
+            this is header 2
+        </h2>
+        <!we use break tag aka br/ tag for space in html>
+        <br/>
+
+        <h6>
+            this is header 6
+        </h6>
+
+        <p> H20 or H<sub>2</sub>0 this is an example of a subscript tag</p>
+        <p>10<sup>^2</sup></p>
+        <!-- This is a comment-->
+        <!--We can use css to give two color attributes, 1. background color,2. textcolor-->
+        <!--we can use the p tag with an attribute called style to change the color of the text-->
+        <p style = "color:blueviolet">
+            This is a colored text
+        </p>
+        <p style = "color:red; background-color: black;">
+            This is another colored text
+        </p>
+
+
+    </body >
+
+</html><!//ending tag>
