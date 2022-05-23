@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html>
+    <meta charset = "UTF-8">   
+    <meta name="description" content="This is an awesome website"> 
+    <title>Formatting in Html</title>
+    <body style="background-color: black; color:red">
+        <header >
+
+            <h1>Air Purification Info</h1>
+
+            <nav>
+                <!--navigation tag is used for listing links to other websites-->
+            </nav>
+        </header>
+        
+        <hr style="color:blue " >
+
+
+        <br/>
+
+
+        <main style="color:red ;">
+            Graph
+            <article>
+                 <!--used to post articles-->
+                 <section>
+                    <aside><!--used for ads-->></aside>
+                 </section>
+
+            </article>
+        </main>
+        
+        <footer style="color:red ;">
+            Address
+        </footer>
+    </body>
+</html>
