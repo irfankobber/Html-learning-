@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<html>
+    <meta charset = "UTF-8">   
+    <meta name="description" content="This is an awesome website"> 
+    <title>Formatting in Html</title>
+    <body style="background-color: black; color:red">
+        <header >
+
+            <h1>Air Purification Info</h1>
+
+            <nav>
+                <!--navigation tag is used for listing links to other websites-->
+            </nav>
+        </header>
+        
+        <hr style="color:blue " >
+
+
+        <br/>
+
+
+        <main style="color:red ;">
+           <h2>Graph</h2> 
+            <p>
+                <a href = "https://www.google.com/?gl=us&hl=en&pws=0&gws_rd=cr" target="_blank"><b>google</b></a>
+                
+                
+            </p>
+
+            <article>
+                 <!--used to post articles-->
+                 <section>
+                    <aside><!--used for ads--></aside>
+                 </section>
+
+            </article>
+        </main>
+        <br/>
+
+        <footer style="color:red ;">
+            Address
+            <br/>
+            <a href="index.html" target="_blank"><i>INDEX</i></a>
+            <br/>
+            <!--To insert image use img tag and use alt tag if the image is not found or deleted-->
+            <img width="460"   src="https://4kwallpapers.com/images/walls/thumbs_2t/799.jpg" alt = "An image"/>
+           <a href=" https://wallpaperaccess.com/full/640208.jpg">
+            <img width="460"   src=" https://wallpaperaccess.com/full/640208.jpg" alt = "An imagered"/>
+    
+        </a>
+        </footer>
+    </body>
+</html>
