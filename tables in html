@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+
+<html>
+    <meta charset = "UTF-8">   
+    <meta name="description" content="This is an awesome website"> 
+    <title>Formatting in Html</title>
+    <body style="background-color: black; color:red">
+        <header >
+
+            <h1>Air Purification Info</h1>
+
+            <nav>
+                <!--navigation tag is used for listing links to other websites-->
+            </nav>
+            <section>
+                <dl>
+                    <dt>
+                        Dell
+                    </dt>
+                    <dd>
+                        Dell g15 5155 is an extremly good laptop
+                    </dd>
+                </dl>
+            </section>
+        </header>
+        
+        <hr style="color:blue " >
+
+
+        <br/>
+
+
+        <main style="color:red ;">
+           <h2>Graph</h2> 
+           <hr/>
+           <br/>
+           <table>
+               <caption>
+                   List of Laptop Companines Table
+               </caption>
+               
+               <th>
+                   Name
+               </th>
+               <th>
+                   Model
+               </th>
+               <th>
+                   Cpu
+               </th>
+               <tr>
+                   <td>
+                       Dell
+                   </td>
+                   <td>
+                        G15
+                   </td>
+                   <td>
+                        ryzen 7
+                   </td>
+
+
+                   
+               </tr>
+               <tr>
+                   <td>
+                        MSI
+                   </td>
+                   <td>
+                       Bravo
+                    </td>
+                    <td>
+                       intel i7
+                    </td>
+               </tr>
+               
+           </table>
+            <p>
+                <a href = "https://www.google.com/?gl=us&hl=en&pws=0&gws_rd=cr" target="_blank"><b>google</b></a>
+                
+                
+            </p>
+
+            <article>
+                 <!--used to post articles-->
+                 <section>
+                    <aside><!--used for ads-->
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/HxBWjJTPn_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    
+                    </aside>
+                 </section>
+
+                 <section>
+                     <ul>
+                         <li>
+                             <a href = "https://www.motor1.com/car-lists/coolest-cars/" target ="_blank">
+                                 Cars
+                             </a>
+                         </li>
+                         <li>
+                             trucks
+                         </li>
+                         <li>
+                             rickshaws
+                         </li>
+                     </ul>
+                 </section>
+
+            </article>
+        </main>
+        <br/>
+
+        <footer style="color:red ;">
+            Address
+            <br/>
+            <a href="index.html" target="_blank"><i>INDEX</i></a>
+            <br/>
+            <!--To insert image use img tag and use alt tag if the image is not found or deleted-->
+            <img width="460"   src="https://4kwallpapers.com/images/walls/thumbs_2t/799.jpg" alt = "An image"/>
+           <a href=" https://wallpaperaccess.com/full/640208.jpg">
+            <img width="460"   src=" https://wallpaperaccess.com/full/640208.jpg" alt = "An imagered"/>
+            
+            <video src="2022-05-18 03-31-03.mkv" poster ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv9kpPrb1l83ENJNRZl9-HkpJB_CojvjPuy8dlYlgWdNbMcwjEyiBovDMG537xZHD8o74&usqp=CAUhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv9kpPrb1l83ENJNRZl9-HkpJB_CojvjPuy8dlYlgWdNbMcwjEyiBovDMG537xZHD8o74&usqp=CAU" controls></video>
+        </a>
+            <section>
+                <ol>
+                    <li>
+                        samsung
+                    </li>
+                    <li>
+                        apple
+                        <ol>
+                            <li>
+                                iphone x
+                            </li>
+                        </ol>
+                    </li>
+                    <li>
+                        motorola    
+                    </li>
+                </ol>
+            </section>
+        </footer>
+    </body>
+</html>
